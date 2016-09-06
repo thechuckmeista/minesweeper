@@ -29,6 +29,8 @@ class Tile
     # else
     #   self.value
     # end
+    # end
+
 
 
 
